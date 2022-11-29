@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">397415160697-v2s7jqt7i2c2saaplrq9ro9mbifj1oiu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">397415160697</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrfB5vXiZnnpmrGP_Iv_8rzeHTrF4yejc</string>
+    <string name="google_app_id" translatable="false">1:397415160697:android:e6e8b2884d70e967dc2da8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrfB5vXiZnnpmrGP_Iv_8rzeHTrF4yejc</string>
+    <string name="google_storage_bucket" translatable="false">penshoppe-men.appspot.com</string>
+    <string name="project_id" translatable="false">penshoppe-men</string>
+</resources>

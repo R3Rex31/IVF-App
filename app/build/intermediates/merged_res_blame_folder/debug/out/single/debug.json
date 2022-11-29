@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_accessories.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_accessories.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_mycart_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\mycart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_tops_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\tops_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bottoms_detailed.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_bottoms_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_my_cart.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_my_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bottoms.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_bottoms.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_accessories.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_accessories.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\font_bebas_regular.otf.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\font\\bebas_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_stops_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\stops_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_searchbox.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\searchbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_imageslide.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\imageslide.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_accessories.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\accessories.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\font_lato_bold.ttf.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\font\\lato_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_hoodies_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\hoodies_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bottoms.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\bottoms.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_place_order.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\font_lato_regular.ttf.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\font\\lato_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo.jpg.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_bottoms.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_bottoms.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_slide3.jpg.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\slide3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_slide1.jpg.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\slide1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tops.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_tops.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_remove_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_remove_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detailed.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tops.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_tops.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_slide4.jpg.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\slide4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_placedorder.jpg.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\placedorder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_slide2.jpg.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\slide2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_signupbtn.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\signupbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_tops_half_detail.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\tops_half_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_bottoms_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\bottoms_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_tops.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\tops.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_allproducts_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\allproducts_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_accessories_item.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\accessories_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_category_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_category_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_allproducts.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_allproducts.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_headerlogo.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable-v24\\headerlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_pink_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_person_pink_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_default_image.png.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_accessories_detailed.xml.flat",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_accessories_detailed.xml"
+    }
+]

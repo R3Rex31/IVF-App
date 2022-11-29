@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detailed.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\stops_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\stops_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tops_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\tops_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bottoms_detailed.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_bottoms_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tops.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_tops.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\accessories_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\accessories_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\allproducts_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\allproducts_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tops.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_tops.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottoms_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\bottoms_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bottoms.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_bottoms.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bottoms.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_bottoms.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\imageslide.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\imageslide.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_place_order.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_accessories.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_accessories.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tops_half_detail.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\tops_half_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\hoodies_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\hoodies_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_accessories_detailed.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_accessories_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mycart_item.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\mycart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_accessories.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_accessories.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_allproducts.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\activity_allproducts.xml"
+    },
+    {
+        "merged": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_cart.xml",
+        "source": "C:\\Users\\risha\\Downloads\\IVFApp\\IVF App\\app\\src\\main\\res\\layout\\fragment_my_cart.xml"
+    }
+]
